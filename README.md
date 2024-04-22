@@ -1,5 +1,4 @@
 # Pharmacy Management System
-# Pharmacy Management System
 
 This project is a Pharmacy Management System developed using Node.js, Express.js, EJS, and SQL. It provides a platform for managing patient details, checking drug availability, adding medicines to the bill, and generating invoices efficiently.
 
@@ -45,5 +44,13 @@ npm nodemon index.js
 3. Search for drugs needed by the patient and check availability.
 4. Add medicines to the bill as per requirements.
 5. Generate the bill and complete the transaction.
+
+## Video Demo
+
+Check out a demo of the Pharmacy Management System in action:
+
+https://github.com/Anupmqr/PharmacyManagementSystem/assets/122713481/3d7535da-02aa-4208-94b2-2988d1642011
+
+
 
 
