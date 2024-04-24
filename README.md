@@ -36,7 +36,7 @@ npm install
 npm nodemon index.js
 ```
 
-5. Open your web browser and navigate to http://localhost:8080 to access the application.
+5. Open your web browser and navigate to http://localhost:8080/admin to access the application.
 
 ## Usage
 1. Login using your registered credentials.
