@@ -45,6 +45,10 @@ npm nodemon index.js
 4. Add medicines to the bill as per requirements.
 5. Generate the bill and complete the transaction.
 
+## Report
+[Web_project.pdf](https://github.com/user-attachments/files/15508523/Web_project.pdf)
+
+
 ## Video Demo
 
 Check out a demo of the Pharmacy Management System in action:
