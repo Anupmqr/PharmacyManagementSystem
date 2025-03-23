@@ -21,7 +21,7 @@ This project is a Pharmacy Management System developed using Node.js, Express.js
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pharmacy-management-system.git
+git clone https://github.com/Anupmqr/pharmacy-management-system.git
 ```
 
 2. Install dependencies:
